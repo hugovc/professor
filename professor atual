@@ -1,9 +1,5 @@
-[{"_id":1,"nome":"Hugo","descricao":"Professor de área específica na Educação de Jovens e Adultos
-UNIVERSIDADE : Universidade Catolica do Salvador
-Educador, responsável pelo processo de ensino e
-de aprendizagem do aluno.","imagem":"https://myanimelist.cdn-dena.com/images/characters/14/112730.jpg"},
-{"_id":2,"nome":"Mario ","descricao":"Professor de área específica na Educação de Jovens e Adultos
-UNIVERSIDADE : Universidade Catolica do Salvador
-Educador, responsável pelo processo de ensino e
-de aprendizagem do aluno.","imagem":"https://avatars0.githubusercontent.com/u/554178?s=460&v=4"},
-{"_id":3,"nome":"Neiva ","descricao":"Raciocinio Logico","http://www.fundosanimais.com/Imagens/imagens-lobos.jpg"}]
+[{"_id":1,"nome":"Hugo","descricao":"Professor de área específica na Educação: Universidade Catolica do Salvador
+Educador","imagem":"https://myanimelist.cdn-dena.com/images/characters/14/112730.jpg"},
+{"_id":2,"nome":"Mario ","descricao":"Professor de área específica na Educação: Universidade Catolica do Salvador
+Educador, responsável ","imagem":"https://avatars0.githubusercontent.com/u/554178?s=460&v=4"},
+{"_id":3,"nome":"Neiva ","descricao":"Universidade Catolica do SalvadorRaciocinio Logico","http://www.fundosanimais.com/Imagens/imagens-lobos.jpg"}]
